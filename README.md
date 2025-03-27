@@ -2,7 +2,7 @@
 
 ### About me ###
 
-🎓 Software Engineering Student
+🎓 Software Engineering Student </br>
 💻 Core Skills: Systems analysis | Full-stack development 
 
 <!--
