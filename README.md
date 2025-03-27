@@ -3,6 +3,7 @@
 ### About me ###
 
 🎓 Software Engineering Student
+💻 Core Skills: Systems analysis | Full-stack development 
 
 <!--
 **ElenaDanchenko/ElenaDanchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
