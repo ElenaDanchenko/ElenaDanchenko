@@ -1,7 +1,5 @@
 ## Hi there, I’m Elena👋
 
-### About me ###
-
 🎓 Software Engineering Student </br>
 💻 Core Skills: Systems analysis | Full-stack development 
 
