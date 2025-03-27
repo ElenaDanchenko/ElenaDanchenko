@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I’m Elena👋
+
+### About me ###
+
+🎓 Software Engineering Student
 
 <!--
 **ElenaDanchenko/ElenaDanchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
