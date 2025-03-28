@@ -11,7 +11,10 @@
 
 <h4 align="left">🧠 My codewars </h4>
 
-
-
 [![codewars](https://www.codewars.com/users/ElenaDanchenko/badges/small)](https://www.codewars.com/users/ElenaDanchenko) 
+
+<h4 align="left"> 📝 My profile summary </h4>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElenaDanchenko&theme=2077)
+
 
