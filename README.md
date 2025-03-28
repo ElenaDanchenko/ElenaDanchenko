@@ -7,8 +7,6 @@
 
 [![codewars](https://www.codewars.com/users/ElenaDanchenko/badges/small)](https://www.codewars.com/users/ElenaDanchenko) 
 
-![](https://komarev.com/ghpvc/?username=ElenaDanchenko)
-
 
 
 <!--
