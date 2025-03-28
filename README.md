@@ -6,5 +6,3 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElenaDanchenko&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElenaDanchenko&theme=solarized_dark)
-
-
