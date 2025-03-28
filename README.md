@@ -3,7 +3,7 @@
 🎓 Software Engineering Student </br>
 💻 Core Skills: Systems analysis | Full-stack development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaDanchenko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaDanchenko&layout=compact)](https://github.com/ElenaDanchenko/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/ElenaDanchenko/badges/small)](https://www.codewars.com/users/ElenaDanchenko) 
 
